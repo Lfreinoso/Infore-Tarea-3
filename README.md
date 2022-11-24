@@ -198,6 +198,7 @@ El voltaje seria igual a 9 [V]
 
 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 
+![image](https://user-images.githubusercontent.com/116655812/203820288-f2535cef-cf27-4bf6-93cd-4752972be539.png)
 
 
 *44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V
@@ -208,11 +209,6 @@ La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
 ![image](https://user-images.githubusercontent.com/116655812/203670585-beb8d817-fd2b-4c51-af77-7dc1a64bacd7.png)
-
-
-46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
-P_T=50*5
-P_T=250 [mW]
 
 48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kÆ, 2.2 kÆ, 3.9 kÆ, y 5.6 kÆ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
@@ -280,8 +276,6 @@ El voltaje seria el mismo ya que en un circuito paralelo los voltajes que caen s
 ![image](https://user-images.githubusercontent.com/116655812/203673413-8f65a28a-7004-4a9f-be2b-cf5b99cb402b.png)
 
 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
-8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
-
 
 ![image](https://user-images.githubusercontent.com/116655812/203673437-6ad7e1f4-2087-465f-b9a8-62d75dcd8a32.png)
 
@@ -328,8 +322,9 @@ El voltaje seria el mismo ya que en un circuito paralelo los voltajes que caen s
 
 24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
 
+![image](https://user-images.githubusercontent.com/116655812/203821541-3737e6b9-bf81-4f35-85ea-c7a4616f9448.png)
 
-
+R) Cada resistor es de 1.125 [kΩ]
 
 26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74
 
