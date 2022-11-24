@@ -376,6 +376,7 @@ Pasan 0.5 [A] por RL
 
 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
+La corriente sera de 0.68 [mA]
 
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
@@ -402,7 +403,7 @@ El amperímetro esta mal ya que debería marcar 10.86 [mA] y no 5.55
 
 # 4. VIDEO 
 
-
+https://youtu.be/39sGXDM7ui8
 
 
 # 5. CONCLUSIONES 
