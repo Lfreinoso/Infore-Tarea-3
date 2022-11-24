@@ -12,11 +12,19 @@ NRC: 10067
 
 # 1. OBJETIVOS
  OBJETIVO GENERAL
+ 
+ - Reconocer circuitos en serie y en paralelo además de aprender las características de cada uno mediante la lectura y resolución de ejercicios del libro de Floyd para que el docente una vez nos proponga los ejercicios poder identificar de que tipo es y diferenciar sus características 
 
 
  OBJETIVOS ESPECÍFICOS
+ 
+ - Identificar un circuito resistivo en serie
 
-  
+ - Determinar potencia en un circuito en serie y paralelo 
+ 
+ -  Determinar la corriente a través de un circuito en serie y paralelo 
+ 
+ - Describir algunas aplicaciones básicas de circuitos en serie y paralelo
 
 
 # 2. MARCO TEÓRICO 
@@ -387,28 +395,8 @@ El amperímetro esta mal ya que debería marcar 10.86 [mA] y no 5.55
 
 (a) 1 y 2: No existe un corto
 (b) 2 y 3: No existe un corto
- (c) 3 y 4: No existe un corto
- (d) 1 y 4: No existe un corto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(c) 3 y 4: No existe un corto
+(d) 1 y 4: No existe un corto
 
 
 
@@ -419,7 +407,13 @@ El amperímetro esta mal ya que debería marcar 10.86 [mA] y no 5.55
 
 # 5. CONCLUSIONES 
 
+- El circuito serie tiene un solo camino para la corriente, ademas de que existen variaciones en el voltja tambien llamadas caidas de voltaje 
 
+- El circuito paralelo tiene dos o mas camino donde la corriente puede circular, la caracteristica peculiar es que el voltaje es el mismo en todos los resistores qeu esten en paralelo 
+
+- La ley de corrientes de Kirchhoff establece que las corrientes que entran es igual a las corrientes qeu salen y tambien que las suma algebraica de todas sus corrientes es igual a cero 
+
+- La ley de voltajes de Kirchhoff establece que la suma de todas las caidas de voltaje es igual al valor de la fuente 
 
 # 6.BIBLIOGRAFÍA
 
